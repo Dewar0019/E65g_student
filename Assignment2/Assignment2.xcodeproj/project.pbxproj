@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8446FC3C1E6750460082BAFE /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = ../../../../Desktop/MyPlayground.playground; sourceTree = "<group>"; };
 		FB3581551E3E7E2B00638BB6 /* Assignment2.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Assignment2.rtf; sourceTree = "<group>"; };
 		FBAD2DC71E2BDE55008207C0 /* Assignment2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBAD2DCA1E2BDE55008207C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		FBAD2DBE1E2BDE55008207C0 = {
 			isa = PBXGroup;
 			children = (
+				8446FC3C1E6750460082BAFE /* MyPlayground.playground */,
 				FB3581551E3E7E2B00638BB6 /* Assignment2.rtf */,
 				FBAD2E7E1E2E56D1008207C0 /* Assignment2.playground */,
 				FBAD2DC91E2BDE55008207C0 /* Assignment2 */,
