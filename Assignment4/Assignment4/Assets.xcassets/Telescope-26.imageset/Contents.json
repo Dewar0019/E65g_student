@@ -2,7 +2,8 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "first.pdf"
+      "filename" : "Telescope-25.png",
+      "scale" : "1x"
     }
   ],
   "info" : {
